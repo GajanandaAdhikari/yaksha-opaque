@@ -28,5 +28,13 @@ The project uses Go for its strong concurrency support, performance, and rich st
 
 The folder structure reflects this design, organizing code by responsibilities such as protocol implementations, benchmarking logic, server and client applications, utility functions, and configuration.
 
+
+## Workflow for Demo
+
+  - **Setup**: Install Go and required libraries.
+  - **Run Server**: Start the server application.
+  - **Run Client**: Execute the client application to initiate authentication.
+  - **Benchmarking**: Collect and display benchmarking results.
+
 ---
 
